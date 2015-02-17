@@ -44,3 +44,36 @@ http://link.springer.com/book/10.1007/3-540-27986-5/page/1
     Langue: Anglais
     Identifiant: ISBN3-540-27985-7;ISBN3-642-06626-7;ISBN9786610460410;ISBN1-280-46041-5;ISBN3-540-27986-5
     Source: EPFL SFX 
+
+
+Ibach and Luth
+Solid State physics
+
+introduction to principles of materials science
+3rd edition
+
+quantum theorz of many particle systems
+alexander l fetter
+and
+john dirk walecka
+
+
+eighth edition
+intro to solid state physics
+kittel
+
+note. nuclear quadrupole splittings in kittel
+
+phonons thermal properties
+
+umklapp process (peierls)
+
+heat capacity of a phonon gas
+planck distribution:
+<n> = 1/( exp(hbar*omega/tau) - 1 )
+tau=kb*T
+
+
+
+
+
