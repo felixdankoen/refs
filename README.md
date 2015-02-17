@@ -34,7 +34,7 @@ Walter Steurer ; Sofia Deloudi ; 2009
 http://primo-direct-eu.hosted.exlibrisgroup.com/primo_library
 
 
-
+http://link.springer.com/book/10.1007/3-540-27986-5/page/1
 
     Titre:
     Powder Diffraction
