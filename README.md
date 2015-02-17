@@ -74,6 +74,9 @@ planck distribution:
 tau=kb*T
 
 
-
+diffraction physics
+john m cowley
+north holland
+3rd ed
 
 
